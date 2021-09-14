@@ -1,0 +1,132 @@
+.nav{
+    width: 100%;
+}
+.main{
+    background-image: url("../MyImages/99173.jpg");
+    width: 100%;
+    height: 360px;
+}
+.header{
+    background-color: black;
+    height: 50px;
+    padding: 10px;
+}
+b{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+sub{
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1,h3,h4,h5{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: white;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h6{
+    color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn1{
+    background-color: rgb(81, 231, 81);
+    color: white;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    margin-left: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btn2{
+    background-color: rgb(46, 163, 241);
+    color: white;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+#imageback{
+    height: 15px;
+    width: 15px;
+}
+#subid1{
+    float: left;
+}
+#subid3{
+    float: right;
+}
+#fid1,#fid2,#fid3,#fid4{
+    width:12.5%;
+    float:left;
+    background-color: black;
+}
+#fid5{
+    width: 50%;
+    height: 258px;
+    float: right;
+    background-color: black;
+}
+.clr{
+    clear: both;
+}
+#back{
+    margin-left: 1080px;
+}
+#back{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#back.hover{
+    background-color: grey;
+}
+.id1{
+    float: left;
+    width: 50%;
+}
+.id2{
+    float: right;
+    width: 50%;
+}
+#twitter,#facebook,#v{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+    margin-top: 20px;
+}
+#twitter{
+    margin-left: 500px;
+}
+#hid5{
+    text-align: right;
+    padding: 20px;
+}
+/* CSS for content area*/
+.content{
+    background-color: white;
+    text-align: center;
+    border: 2px solid black;
+}
+#conheader{
+    color: black;
+}
+#name,#email,#password{
+    text-align: left;
+    height: 50px;
+    width: 90%;
+}
+#submit,#reset{
+    height: 50px;
+    width: 80px;
+}
+#reset{
+    margin-right: 50px;
+}
